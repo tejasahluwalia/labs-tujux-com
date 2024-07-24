@@ -600,6 +600,10 @@ video {
   padding: 2rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-mono {
   font-family: 'Nimbus Mono PS', 'ui - monospace', 'SFMono - Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
@@ -636,4 +640,9 @@ video {
 .text-zinc-950 {
   --tw-text-opacity: 1;
   color: rgb(9 9 11 / var(--tw-text-opacity));
+}
+
+.text-zinc-200 {
+  --tw-text-opacity: 1;
+  color: rgb(228 228 231 / var(--tw-text-opacity));
 }
