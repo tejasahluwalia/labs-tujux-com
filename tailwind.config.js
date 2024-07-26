@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         mono:
-          "'Nimbus Mono PS', 'ui - monospace', 'SFMono - Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+          "'Kode Mono', 'Nimbus Mono PS', 'ui - monospace', 'SFMono - Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
       },
     },
   },
